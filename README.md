@@ -8,4 +8,5 @@ With TruOrganizer, you are also able to:
 - Be able to access the events of the clubs you participate in. 
 
 This Program was created in 2 days for the Hack Truman Event (Truman's Hackathon) with 2 other freshman using C++ and CFML, Cold Fusion Mark-up Language, a cpp extension created to display the interface.
+
 This Program won 2nd place; one place above the freshman award.
