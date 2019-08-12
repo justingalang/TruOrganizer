@@ -1,0 +1,2 @@
+# TruOrganizer
+Hack Truman Event 
