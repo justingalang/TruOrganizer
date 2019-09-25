@@ -7,6 +7,6 @@ With TruOrganizer, you are also able to:
 - Look up other professors and their office hours
 - Be able to access the events of the clubs you participate in. 
 
-This Program was created in 2 days for the Hack Truman Event (Truman's Hackathon) with 2 other freshman using C++ and CFML, Cold Fusion Mark-up Language, a cpp extension created to display the interface.
+This Program was created in 2 days for the Hack Truman Event (Truman's Hackathon) with 2 other freshman using C++ and SFML, Simple and Fast Multimedia Library, a cpp extension created to display the interface.
 
 This Program won 2nd place; one place above the freshman award.
