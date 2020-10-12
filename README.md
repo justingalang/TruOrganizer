@@ -13,7 +13,7 @@ With TruOrganizer, you are also able to:
 - Look up other professors and their office hours
 - Be able to access the events of the clubs you participate in. 
 
-<img src=https://github.com/justingalang/TruOrganizer/blob/master/exampleGUI.PNG width=200><br>
+<img src=https://github.com/justingalang/TruOrganizer/blob/master/exampleGUI.PNG width=500><br>
 
 This Program was created in 2 days for the Hack Truman Event (Truman's Hackathon) with 2 other freshman using C++ and SFML, Simple and Fast Multimedia Library, a cpp extension created to display the interface.
 
